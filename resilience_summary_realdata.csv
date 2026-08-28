@@ -1,0 +1,31 @@
+disruption,measurable,note,baseline,baseline_n,trough_year,trough_value,impact_pct,recovery_year,recovery_years,status,country_code
+gfc_late_phase,False,no pre-baseline,,0,,,,,,not_measurable,GHA
+ghana_log_export_ban,True,,386.0425,4,2013.0,400.56,3.760596307401383,2014.0,1.0,recovered,GHA
+ebola_and_price_crash,True,,397.1766666666667,6,2015.0,544.29,37.039772393477286,,,not_recovered_in_panel,GHA
+covid_19,False,window outside ITTO coverage,444.54,8,,,,,,not_measurable,GHA
+ukraine_war_shipping,False,window outside ITTO coverage,444.54,8,,,,,,not_measurable,GHA
+gfc_late_phase,False,no pre-baseline,,0,,,,,,not_measurable,CIV
+ghana_log_export_ban,True,,568.1175,4,2012.0,527.4,-7.167091314736824,2014.0,2.0,recovered,CIV
+ebola_and_price_crash,True,,558.4583333333334,6,2015.0,410.23,-26.54241587704245,,,not_recovered_in_panel,CIV
+covid_19,False,window outside ITTO coverage,527.0422222222222,9,,,,,,not_measurable,CIV
+ukraine_war_shipping,False,window outside ITTO coverage,527.0422222222222,9,,,,,,not_measurable,CIV
+gfc_late_phase,False,no pre-baseline,,0,,,,,,not_measurable,NGA
+ghana_log_export_ban,True,,112.3875,4,2012.0,105.42,-6.199532866199534,2013.0,1.0,recovered,NGA
+ebola_and_price_crash,True,,115.51333333333334,6,2014.0,858.6,643.2908177988112,2015.0,1.0,recovered,NGA
+covid_19,False,window outside ITTO coverage,363.78125000000006,8,,,,,,not_measurable,NGA
+ukraine_war_shipping,False,window outside ITTO coverage,363.78125000000006,8,,,,,,not_measurable,NGA
+gfc_late_phase,False,no pre-baseline,,0,,,,,,not_measurable,LBR
+ghana_log_export_ban,True,,20.8725,4,2014.0,134.39999999999998,543.9094502335608,2015.0,1.0,recovered,LBR
+ebola_and_price_crash,True,,68.73333333333333,6,2014.0,134.39999999999998,95.5383123181377,2015.0,1.0,recovered,LBR
+covid_19,False,window outside ITTO coverage,86.19999999999999,8,,,,,,not_measurable,LBR
+ukraine_war_shipping,False,window outside ITTO coverage,86.19999999999999,8,,,,,,not_measurable,LBR
+gfc_late_phase,False,no pre-baseline,,0,,,,,,not_measurable,GIN
+ghana_log_export_ban,True,,84.4675,4,2013.0,4.08,-95.16973984076716,,,not_recovered_in_panel,GIN
+ebola_and_price_crash,True,,59.303333333333335,6,2015.0,14.58,-75.41453543926706,,,not_recovered_in_panel,GIN
+covid_19,False,window outside ITTO coverage,50.04875,8,,,,,,not_measurable,GIN
+ukraine_war_shipping,False,window outside ITTO coverage,50.04875,8,,,,,,not_measurable,GIN
+gfc_late_phase,False,no pre-baseline,,0,,,,,,not_measurable,SLE
+ghana_log_export_ban,True,,18.4275,4,2012.0,7.28,-60.493827160493815,2013.0,1.0,recovered,SLE
+ebola_and_price_crash,True,,22.78833333333333,6,2015.0,1.25,-94.5147370730637,,,not_recovered_in_panel,SLE
+covid_19,False,window outside ITTO coverage,24.76375,8,,,,,,not_measurable,SLE
+ukraine_war_shipping,False,window outside ITTO coverage,24.76375,8,,,,,,not_measurable,SLE

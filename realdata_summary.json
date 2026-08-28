@@ -1,0 +1,19 @@
+{
+  "panel_rows": 204,
+  "countries_with_itto": 12,
+  "year_min": 2008,
+  "year_max": 2024,
+  "disruptions_in_panel": [
+    "gfc_late_phase",
+    "ghana_log_export_ban",
+    "ebola_and_price_crash",
+    "covid_19",
+    "ukraine_war_shipping"
+  ],
+  "core_countries": [
+    "GHA",
+    "CIV",
+    "NGA",
+    "LBR"
+  ]
+}

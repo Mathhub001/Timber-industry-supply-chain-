@@ -1,0 +1,401 @@
+year,country,product,flow,value,unit,superscript
+2008,Bénin,Ind. roundwood (NC.T.),Exports Quantity,50.61,1000 m3,CBI
+2008,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,1.52,1000 m3,CB
+2008,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,150.0,1000 m3,CBI
+2008,Gambia,Ind. roundwood (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2008,Ghana,Ind. roundwood (NC.T.),Exports Quantity,209.0,1000 m3,CBI
+2008,Guinea,Ind. roundwood (NC.T.),Exports Quantity,68.23,1000 m3,CB
+2008,Guinea-Bissau,Ind. roundwood (NC.T.),Exports Quantity,4.59,1000 m3,CB
+2008,Liberia,Ind. roundwood (NC.T.),Exports Quantity,2.11,1000 m3,CB
+2008,Nigeria,Ind. roundwood (NC.T.),Exports Quantity,75.96,1000 m3,CBI
+2008,Senegal,Ind. roundwood (NC.T.),Exports Quantity,0.5,1000 m3,CBI
+2008,Sierra Leone,Ind. roundwood (NC.T.),Exports Quantity,12.61,1000 m3,CB
+2008,Togo,Ind. roundwood (NC.T.),Exports Quantity,95.87,1000 m3,CB
+2009,Bénin,Ind. roundwood (NC.T.),Exports Quantity,66.23,1000 m3,CBI
+2009,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,0.01,1000 m3,CR
+2009,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,143.0,1000 m3,CBI
+2009,Gambia,Ind. roundwood (NC.T.),Exports Quantity,0.12,1000 m3,CBR
+2009,Ghana,Ind. roundwood (NC.T.),Exports Quantity,144.0,1000 m3,CBI
+2009,Guinea,Ind. roundwood (NC.T.),Exports Quantity,17.76,1000 m3,CB
+2009,Guinea-Bissau,Ind. roundwood (NC.T.),Exports Quantity,4.22,1000 m3,CBI
+2009,Liberia,Ind. roundwood (NC.T.),Exports Quantity,4.74,1000 m3,CB
+2009,Nigeria,Ind. roundwood (NC.T.),Exports Quantity,117.94,1000 m3,CBI
+2009,Senegal,Ind. roundwood (NC.T.),Exports Quantity,0.91,1000 m3,CBI
+2009,Sierra Leone,Ind. roundwood (NC.T.),Exports Quantity,23.2,1000 m3,CBI
+2009,Togo,Ind. roundwood (NC.T.),Exports Quantity,73.1,1000 m3,CB
+2010,Bénin,Ind. roundwood (NC.T.),Exports Quantity,89.91,1000 m3,CBI
+2010,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,0.03,1000 m3,CR
+2010,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,146.19,1000 m3,CBI
+2010,Gambia,Ind. roundwood (NC.T.),Exports Quantity,19.53,1000 m3,CBI
+2010,Ghana,Ind. roundwood (NC.T.),Exports Quantity,148.6,1000 m3,CBI
+2010,Guinea,Ind. roundwood (NC.T.),Exports Quantity,149.55,1000 m3,CB
+2010,Guinea-Bissau,Ind. roundwood (NC.T.),Exports Quantity,8.71,1000 m3,CB
+2010,Liberia,Ind. roundwood (NC.T.),Exports Quantity,9.17,1000 m3,CB
+2010,Nigeria,Ind. roundwood (NC.T.),Exports Quantity,108.83,1000 m3,CBI
+2010,Senegal,Ind. roundwood (NC.T.),Exports Quantity,1.09,1000 m3,CB
+2010,Sierra Leone,Ind. roundwood (NC.T.),Exports Quantity,14.87,1000 m3,CB
+2010,Togo,Ind. roundwood (NC.T.),Exports Quantity,113.55,1000 m3,CB
+2011,Bénin,Ind. roundwood (NC.T.),Exports Quantity,210.09,1000 m3,CB
+2011,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,0.01,1000 m3,CR
+2011,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,114.7,1000 m3,CBI
+2011,Gambia,Ind. roundwood (NC.T.),Exports Quantity,85.03,1000 m3,CB
+2011,Ghana,Ind. roundwood (NC.T.),Exports Quantity,166.25,1000 m3,CBI
+2011,Guinea,Ind. roundwood (NC.T.),Exports Quantity,51.21,1000 m3,CB
+2011,Guinea-Bissau,Ind. roundwood (NC.T.),Exports Quantity,8.47,1000 m3,CB
+2011,Liberia,Ind. roundwood (NC.T.),Exports Quantity,64.53,1000 m3,CBI
+2011,Nigeria,Ind. roundwood (NC.T.),Exports Quantity,105.98,1000 m3,CBI
+2011,Senegal,Ind. roundwood (NC.T.),Exports Quantity,1.03,1000 m3,CBI
+2011,Sierra Leone,Ind. roundwood (NC.T.),Exports Quantity,16.33,1000 m3,CB
+2011,Togo,Ind. roundwood (NC.T.),Exports Quantity,96.86,1000 m3,CBI
+2012,Bénin,Ind. roundwood (NC.T.),Exports Quantity,261.33,1000 m3,CBI
+2012,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,0.36,1000 m3,CBR
+2012,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,144.0,1000 m3,CBI
+2012,Gambia,Ind. roundwood (NC.T.),Exports Quantity,149.14,1000 m3,CB
+2012,Ghana,Ind. roundwood (NC.T.),Exports Quantity,275.77,1000 m3,CBI
+2012,Guinea,Ind. roundwood (NC.T.),Exports Quantity,12.06,1000 m3,CBI
+2012,Guinea-Bissau,Ind. roundwood (NC.T.),Exports Quantity,11.0,1000 m3,CBI
+2012,Liberia,Ind. roundwood (NC.T.),Exports Quantity,188.04,1000 m3,CB
+2012,Nigeria,Ind. roundwood (NC.T.),Exports Quantity,98.45,1000 m3,CBI
+2012,Senegal,Ind. roundwood (NC.T.),Exports Quantity,2.86,1000 m3,CBI
+2012,Sierra Leone,Ind. roundwood (NC.T.),Exports Quantity,7.03,1000 m3,CB
+2012,Togo,Ind. roundwood (NC.T.),Exports Quantity,89.71,1000 m3,CBI
+2013,Bénin,Ind. roundwood (NC.T.),Exports Quantity,236.5,1000 m3,CB
+2013,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,1.37,1000 m3,CI
+2013,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,300.0,1000 m3,CBI
+2013,Gambia,Ind. roundwood (NC.T.),Exports Quantity,123.93,1000 m3,CB
+2013,Ghana,Ind. roundwood (NC.T.),Exports Quantity,252.7,1000 m3,CB
+2013,Guinea,Ind. roundwood (NC.T.),Exports Quantity,3.99,1000 m3,CBI
+2013,Guinea-Bissau,Ind. roundwood (NC.T.),Exports Quantity,15.86,1000 m3,CB
+2013,Liberia,Ind. roundwood (NC.T.),Exports Quantity,136.1,1000 m3,CB
+2013,Nigeria,Ind. roundwood (NC.T.),Exports Quantity,131.0,1000 m3,CBI
+2013,Senegal,Ind. roundwood (NC.T.),Exports Quantity,1.76,1000 m3,CB
+2013,Sierra Leone,Ind. roundwood (NC.T.),Exports Quantity,53.82,1000 m3,CB
+2013,Togo,Ind. roundwood (NC.T.),Exports Quantity,69.82,1000 m3,CB
+2014,Bénin,Ind. roundwood (NC.T.),Exports Quantity,354.0,1000 m3,CBI
+2014,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,0.01,1000 m3,CRI
+2014,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,358.9,1000 m3,CB
+2014,Gambia,Ind. roundwood (NC.T.),Exports Quantity,84.65,1000 m3,I
+2014,Ghana,Ind. roundwood (NC.T.),Exports Quantity,446.0,1000 m3,CBI
+2014,Guinea,Ind. roundwood (NC.T.),Exports Quantity,27.49,1000 m3,CB
+2014,Guinea-Bissau,Ind. roundwood (NC.T.),Exports Quantity,134.0,1000 m3,I
+2014,Liberia,Ind. roundwood (NC.T.),Exports Quantity,132.39,1000 m3,CBI
+2014,Nigeria,Ind. roundwood (NC.T.),Exports Quantity,850.0,1000 m3,CBI
+2014,Senegal,Ind. roundwood (NC.T.),Exports Quantity,5.33,1000 m3,CI
+2014,Sierra Leone,Ind. roundwood (NC.T.),Exports Quantity,59.81,1000 m3,CB
+2014,Togo,Ind. roundwood (NC.T.),Exports Quantity,107.0,1000 m3,CBI
+2015,Bénin,Ind. roundwood (NC.T.),Exports Quantity,220.0,1000 m3,CB
+2015,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,0.0,1000 m3,CRI
+2015,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,151.0,1000 m3,CBI
+2015,Gambia,Ind. roundwood (NC.T.),Exports Quantity,203.86,1000 m3,CB
+2015,Ghana,Ind. roundwood (NC.T.),Exports Quantity,387.0,1000 m3,CBI
+2015,Guinea,Ind. roundwood (NC.T.),Exports Quantity,10.08,1000 m3,CBI
+2015,Guinea-Bissau,Ind. roundwood (NC.T.),Exports Quantity,63.27,1000 m3,CB
+2015,Liberia,Ind. roundwood (NC.T.),Exports Quantity,141.71,1000 m3,CBI
+2015,Nigeria,Ind. roundwood (NC.T.),Exports Quantity,1342.0,1000 m3,CBI
+2015,Senegal,Ind. roundwood (NC.T.),Exports Quantity,2.57,1000 m3,CBI
+2015,Sierra Leone,Ind. roundwood (NC.T.),Exports Quantity,0.18,1000 m3,CBRI
+2015,Togo,Ind. roundwood (NC.T.),Exports Quantity,117.0,1000 m3,CBI
+2016,Bénin,Ind. roundwood (NC.T.),Exports Quantity,133.65,1000 m3,CB
+2016,Burkina Faso,Ind. roundwood (NC.T.),Exports Quantity,0.0,1000 m3,CB
+2016,Côte d&#039;Ivoire,Ind. roundwood (NC.T.),Exports Quantity,70.33,1000 m3,CB
+2016,Gambia,Ind. roundwood (NC.T.),Exports Quantity,327.91,1000 m3,CB
+2008,Bénin,Sawnwood (NC.T.),Exports Quantity,8.41,1000 m3,CB
+2008,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.01,1000 m3,CBR
+2008,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,509.78,1000 m3,I
+2008,Gambia,Sawnwood (NC.T.),Exports Quantity,0.01,1000 m3,CBR
+2008,Ghana,Sawnwood (NC.T.),Exports Quantity,177.19,1000 m3,CI
+2008,Guinea,Sawnwood (NC.T.),Exports Quantity,23.58,1000 m3,C
+2008,Guinea-Bissau,Sawnwood (NC.T.),Exports Quantity,0.14,1000 m3,CBR
+2008,Liberia,Sawnwood (NC.T.),Exports Quantity,0.23,1000 m3,CBRI
+2008,Nigeria,Sawnwood (NC.T.),Exports Quantity,16.6,1000 m3,CBI
+2008,Senegal,Sawnwood (NC.T.),Exports Quantity,1.69,1000 m3,CI
+2008,Sierra Leone,Sawnwood (NC.T.),Exports Quantity,1.24,1000 m3,CBI
+2008,Togo,Sawnwood (NC.T.),Exports Quantity,3.91,1000 m3,CBI
+2009,Bénin,Sawnwood (NC.T.),Exports Quantity,6.43,1000 m3,CB
+2009,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.01,1000 m3,CBR
+2009,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,268.59,1000 m3,I
+2009,Gambia,Sawnwood (NC.T.),Exports Quantity,0.24,1000 m3,CRI
+2009,Ghana,Sawnwood (NC.T.),Exports Quantity,95.91,1000 m3,CI
+2009,Guinea,Sawnwood (NC.T.),Exports Quantity,3.46,1000 m3,CBI
+2009,Guinea-Bissau,Sawnwood (NC.T.),Exports Quantity,0.15,1000 m3,CBR
+2009,Liberia,Sawnwood (NC.T.),Exports Quantity,0.86,1000 m3,CB
+2009,Nigeria,Sawnwood (NC.T.),Exports Quantity,7.52,1000 m3,CBI
+2009,Senegal,Sawnwood (NC.T.),Exports Quantity,0.51,1000 m3,C
+2009,Sierra Leone,Sawnwood (NC.T.),Exports Quantity,4.12,1000 m3,CBI
+2009,Togo,Sawnwood (NC.T.),Exports Quantity,1.94,1000 m3,CB
+2010,Bénin,Sawnwood (NC.T.),Exports Quantity,11.81,1000 m3,CB
+2010,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.0,1000 m3,CBR
+2010,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,335.87,1000 m3,I
+2010,Gambia,Sawnwood (NC.T.),Exports Quantity,0.09,1000 m3,CBR
+2010,Ghana,Sawnwood (NC.T.),Exports Quantity,177.48,1000 m3,CBI
+2010,Guinea,Sawnwood (NC.T.),Exports Quantity,6.46,1000 m3,CBI
+2010,Guinea-Bissau,Sawnwood (NC.T.),Exports Quantity,0.06,1000 m3,CBR
+2010,Liberia,Sawnwood (NC.T.),Exports Quantity,0.27,1000 m3,CBR
+2010,Nigeria,Sawnwood (NC.T.),Exports Quantity,10.85,1000 m3,CBI
+2010,Senegal,Sawnwood (NC.T.),Exports Quantity,0.72,1000 m3,CI
+2010,Sierra Leone,Sawnwood (NC.T.),Exports Quantity,0.46,1000 m3,CBR
+2010,Togo,Sawnwood (NC.T.),Exports Quantity,2.67,1000 m3,CB
+2011,Bénin,Sawnwood (NC.T.),Exports Quantity,23.75,1000 m3,CBI
+2011,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2011,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,202.0,1000 m3,CBI
+2011,Gambia,Sawnwood (NC.T.),Exports Quantity,0.71,1000 m3,CB
+2011,Ghana,Sawnwood (NC.T.),Exports Quantity,169.06,1000 m3,I
+2011,Guinea,Sawnwood (NC.T.),Exports Quantity,4.21,1000 m3,CBI
+2011,Guinea-Bissau,Sawnwood (NC.T.),Exports Quantity,0.4,1000 m3,CBRI
+2011,Liberia,Sawnwood (NC.T.),Exports Quantity,1.46,1000 m3,CB
+2011,Nigeria,Sawnwood (NC.T.),Exports Quantity,5.58,1000 m3,CBI
+2011,Senegal,Sawnwood (NC.T.),Exports Quantity,0.77,1000 m3,C
+2011,Sierra Leone,Sawnwood (NC.T.),Exports Quantity,0.85,1000 m3,CBI
+2011,Togo,Sawnwood (NC.T.),Exports Quantity,5.63,1000 m3,CB
+2012,Bénin,Sawnwood (NC.T.),Exports Quantity,23.43,1000 m3,CBI
+2012,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.0,1000 m3,CBR
+2012,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,258.0,1000 m3,CBI
+2012,Gambia,Sawnwood (NC.T.),Exports Quantity,0.55,1000 m3,CBI
+2012,Ghana,Sawnwood (NC.T.),Exports Quantity,94.53,1000 m3,CI
+2012,Guinea,Sawnwood (NC.T.),Exports Quantity,1.72,1000 m3,CBI
+2012,Guinea-Bissau,Sawnwood (NC.T.),Exports Quantity,1.51,1000 m3,CBI
+2012,Liberia,Sawnwood (NC.T.),Exports Quantity,2.94,1000 m3,CBI
+2012,Nigeria,Sawnwood (NC.T.),Exports Quantity,6.9,1000 m3,CBI
+2012,Senegal,Sawnwood (NC.T.),Exports Quantity,2.65,1000 m3,CI
+2012,Sierra Leone,Sawnwood (NC.T.),Exports Quantity,0.24,1000 m3,CBRI
+2012,Togo,Sawnwood (NC.T.),Exports Quantity,4.69,1000 m3,CBI
+2013,Bénin,Sawnwood (NC.T.),Exports Quantity,42.58,1000 m3,CBI
+2013,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.06,1000 m3,CBR
+2013,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,175.0,1000 m3,CBI
+2013,Gambia,Sawnwood (NC.T.),Exports Quantity,0.91,1000 m3,CB
+2013,Ghana,Sawnwood (NC.T.),Exports Quantity,92.53,1000 m3,I
+2013,Guinea,Sawnwood (NC.T.),Exports Quantity,0.04,1000 m3,CBR
+2013,Guinea-Bissau,Sawnwood (NC.T.),Exports Quantity,0.26,1000 m3,CBR
+2013,Liberia,Sawnwood (NC.T.),Exports Quantity,1.83,1000 m3,CBI
+2013,Nigeria,Sawnwood (NC.T.),Exports Quantity,7.08,1000 m3,CBI
+2013,Senegal,Sawnwood (NC.T.),Exports Quantity,2.06,1000 m3,CI
+2013,Sierra Leone,Sawnwood (NC.T.),Exports Quantity,1.88,1000 m3,CB
+2013,Togo,Sawnwood (NC.T.),Exports Quantity,3.48,1000 m3,CB
+2014,Bénin,Sawnwood (NC.T.),Exports Quantity,56.37,1000 m3,CB
+2014,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.03,1000 m3,CBR
+2014,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,204.0,1000 m3,CBI
+2014,Gambia,Sawnwood (NC.T.),Exports Quantity,0.07,1000 m3,CBR
+2014,Ghana,Sawnwood (NC.T.),Exports Quantity,100.56,1000 m3,CBI
+2014,Guinea,Sawnwood (NC.T.),Exports Quantity,1.77,1000 m3,C
+2014,Guinea-Bissau,Sawnwood (NC.T.),Exports Quantity,0.08,1000 m3,CBR
+2014,Liberia,Sawnwood (NC.T.),Exports Quantity,2.01,1000 m3,CBI
+2014,Nigeria,Sawnwood (NC.T.),Exports Quantity,8.5,1000 m3,CBI
+2014,Senegal,Sawnwood (NC.T.),Exports Quantity,0.29,1000 m3,CR
+2014,Sierra Leone,Sawnwood (NC.T.),Exports Quantity,0.32,1000 m3,CBRI
+2014,Togo,Sawnwood (NC.T.),Exports Quantity,2.73,1000 m3,CB
+2015,Bénin,Sawnwood (NC.T.),Exports Quantity,36.25,1000 m3,CBI
+2015,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.06,1000 m3,CBRI
+2015,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,151.1,1000 m3,CBI
+2015,Gambia,Sawnwood (NC.T.),Exports Quantity,0.07,1000 m3,CBR
+2015,Ghana,Sawnwood (NC.T.),Exports Quantity,89.53,1000 m3,CBI
+2015,Guinea,Sawnwood (NC.T.),Exports Quantity,1.72,1000 m3,C
+2015,Guinea-Bissau,Sawnwood (NC.T.),Exports Quantity,0.09,1000 m3,CBRI
+2015,Liberia,Sawnwood (NC.T.),Exports Quantity,1.03,1000 m3,CBI
+2015,Nigeria,Sawnwood (NC.T.),Exports Quantity,16.49,1000 m3,CBI
+2015,Senegal,Sawnwood (NC.T.),Exports Quantity,1.91,1000 m3,CI
+2015,Sierra Leone,Sawnwood (NC.T.),Exports Quantity,1.06,1000 m3,CBI
+2015,Togo,Sawnwood (NC.T.),Exports Quantity,1.31,1000 m3,CBI
+2016,Bénin,Sawnwood (NC.T.),Exports Quantity,21.61,1000 m3,CBI
+2016,Burkina Faso,Sawnwood (NC.T.),Exports Quantity,0.05,1000 m3,CBR
+2016,Côte d&#039;Ivoire,Sawnwood (NC.T.),Exports Quantity,135.35,1000 m3,I
+2016,Gambia,Sawnwood (NC.T.),Exports Quantity,0.47,1000 m3,CBR
+2008,Bénin,Veneer (NC.T.),Exports Quantity,0.41,1000 m3,CRI
+2008,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2008,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,102.81,1000 m3,CI
+2008,Gambia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2008,Ghana,Veneer (NC.T.),Exports Quantity,42.55,1000 m3,CI
+2008,Guinea,Veneer (NC.T.),Exports Quantity,1.71,1000 m3,CBI
+2008,Guinea-Bissau,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2008,Liberia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2008,Nigeria,Veneer (NC.T.),Exports Quantity,0.06,1000 m3,CBRI
+2008,Senegal,Veneer (NC.T.),Exports Quantity,0.03,1000 m3,CBRI
+2008,Sierra Leone,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,I
+2008,Togo,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2009,Bénin,Veneer (NC.T.),Exports Quantity,0.1,1000 m3,CRI
+2009,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2009,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,55.63,1000 m3,CI
+2009,Gambia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CB
+2009,Ghana,Veneer (NC.T.),Exports Quantity,19.5,1000 m3,CI
+2009,Guinea,Veneer (NC.T.),Exports Quantity,0.67,1000 m3,CBI
+2009,Guinea-Bissau,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2009,Liberia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2009,Nigeria,Veneer (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2009,Senegal,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CB
+2009,Sierra Leone,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,I
+2009,Togo,Veneer (NC.T.),Exports Quantity,0.05,1000 m3,CBRI
+2010,Bénin,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2010,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.01,1000 m3,CRI
+2010,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,72.97,1000 m3,CI
+2010,Gambia,Veneer (NC.T.),Exports Quantity,0.43,1000 m3,CRI
+2010,Ghana,Veneer (NC.T.),Exports Quantity,25.18,1000 m3,CI
+2010,Guinea,Veneer (NC.T.),Exports Quantity,1.33,1000 m3,CBI
+2010,Guinea-Bissau,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2010,Liberia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2010,Nigeria,Veneer (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2010,Senegal,Veneer (NC.T.),Exports Quantity,0.21,1000 m3,CBRI
+2010,Sierra Leone,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2010,Togo,Veneer (NC.T.),Exports Quantity,0.49,1000 m3,CBRI
+2011,Bénin,Veneer (NC.T.),Exports Quantity,1.34,1000 m3,CI
+2011,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2011,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,63.46,1000 m3,CI
+2011,Gambia,Veneer (NC.T.),Exports Quantity,0.21,1000 m3,CRI
+2011,Ghana,Veneer (NC.T.),Exports Quantity,29.69,1000 m3,
+2011,Guinea,Veneer (NC.T.),Exports Quantity,0.17,1000 m3,CBRI
+2011,Guinea-Bissau,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2011,Liberia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2011,Nigeria,Veneer (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2011,Senegal,Veneer (NC.T.),Exports Quantity,0.18,1000 m3,CBRI
+2011,Sierra Leone,Veneer (NC.T.),Exports Quantity,0.02,1000 m3,CBRI
+2011,Togo,Veneer (NC.T.),Exports Quantity,0.27,1000 m3,CBRI
+2012,Bénin,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2012,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2012,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,91.45,1000 m3,CI
+2012,Gambia,Veneer (NC.T.),Exports Quantity,0.46,1000 m3,CRI
+2012,Ghana,Veneer (NC.T.),Exports Quantity,23.96,1000 m3,I
+2012,Guinea,Veneer (NC.T.),Exports Quantity,0.09,1000 m3,CBRI
+2012,Guinea-Bissau,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2012,Liberia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2012,Nigeria,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2012,Senegal,Veneer (NC.T.),Exports Quantity,0.03,1000 m3,CBRI
+2012,Sierra Leone,Veneer (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2012,Togo,Veneer (NC.T.),Exports Quantity,0.31,1000 m3,CBRI
+2013,Bénin,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CB
+2013,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CRI
+2013,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,54.17,1000 m3,CI
+2013,Gambia,Veneer (NC.T.),Exports Quantity,0.01,1000 m3,CRI
+2013,Ghana,Veneer (NC.T.),Exports Quantity,28.32,1000 m3,
+2013,Guinea,Veneer (NC.T.),Exports Quantity,0.05,1000 m3,CBRI
+2013,Guinea-Bissau,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2013,Liberia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2013,Nigeria,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2013,Senegal,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CRI
+2013,Sierra Leone,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2013,Togo,Veneer (NC.T.),Exports Quantity,0.73,1000 m3,CBI
+2014,Bénin,Veneer (NC.T.),Exports Quantity,0.03,1000 m3,CBRI
+2014,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2014,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,63.12,1000 m3,CI
+2014,Gambia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CB
+2014,Ghana,Veneer (NC.T.),Exports Quantity,26.86,1000 m3,
+2014,Guinea,Veneer (NC.T.),Exports Quantity,0.36,1000 m3,CBRI
+2014,Guinea-Bissau,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2014,Liberia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2014,Nigeria,Veneer (NC.T.),Exports Quantity,0.03,1000 m3,CBRI
+2014,Senegal,Veneer (NC.T.),Exports Quantity,0.07,1000 m3,CBRI
+2014,Sierra Leone,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2014,Togo,Veneer (NC.T.),Exports Quantity,0.06,1000 m3,CBRI
+2015,Bénin,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,I
+2015,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2015,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,81.32,1000 m3,CI
+2015,Gambia,Veneer (NC.T.),Exports Quantity,0.03,1000 m3,CBRI
+2015,Ghana,Veneer (NC.T.),Exports Quantity,18.41,1000 m3,CBI
+2015,Guinea,Veneer (NC.T.),Exports Quantity,0.53,1000 m3,CBI
+2015,Guinea-Bissau,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,C
+2015,Liberia,Veneer (NC.T.),Exports Quantity,0.06,1000 m3,CBRI
+2015,Nigeria,Veneer (NC.T.),Exports Quantity,0.06,1000 m3,CBRI
+2015,Senegal,Veneer (NC.T.),Exports Quantity,0.01,1000 m3,CRI
+2015,Sierra Leone,Veneer (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2015,Togo,Veneer (NC.T.),Exports Quantity,0.06,1000 m3,CBRI
+2016,Bénin,Veneer (NC.T.),Exports Quantity,0.18,1000 m3,CBRI
+2016,Burkina Faso,Veneer (NC.T.),Exports Quantity,0.08,1000 m3,CBRI
+2016,Côte d&#039;Ivoire,Veneer (NC.T.),Exports Quantity,96.24,1000 m3,CI
+2016,Gambia,Veneer (NC.T.),Exports Quantity,0.0,1000 m3,CRI
+2008,Bénin,Plywood (NC.T.),Exports Quantity,0.06,1000 m3,CBR
+2008,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.03,1000 m3,CBRI
+2008,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,37.63,1000 m3,CBI
+2008,Gambia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2008,Ghana,Plywood (NC.T.),Exports Quantity,19.05,1000 m3,CBI
+2008,Guinea,Plywood (NC.T.),Exports Quantity,3.39,1000 m3,CBI
+2008,Guinea-Bissau,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2008,Liberia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CB
+2008,Nigeria,Plywood (NC.T.),Exports Quantity,0.17,1000 m3,CBRI
+2008,Senegal,Plywood (NC.T.),Exports Quantity,0.32,1000 m3,CBRI
+2008,Sierra Leone,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CBR
+2008,Togo,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2009,Bénin,Plywood (NC.T.),Exports Quantity,0.03,1000 m3,CRI
+2009,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CRI
+2009,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,25.57,1000 m3,CBI
+2009,Gambia,Plywood (NC.T.),Exports Quantity,0.03,1000 m3,CBRI
+2009,Ghana,Plywood (NC.T.),Exports Quantity,31.99,1000 m3,CBI
+2009,Guinea,Plywood (NC.T.),Exports Quantity,2.53,1000 m3,CBI
+2009,Guinea-Bissau,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2009,Liberia,Plywood (NC.T.),Exports Quantity,0.12,1000 m3,CBRI
+2009,Nigeria,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2009,Senegal,Plywood (NC.T.),Exports Quantity,0.13,1000 m3,CRI
+2009,Sierra Leone,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CBR
+2009,Togo,Plywood (NC.T.),Exports Quantity,0.1,1000 m3,CBRI
+2010,Bénin,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2010,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2010,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,24.22,1000 m3,CBI
+2010,Gambia,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CRI
+2010,Ghana,Plywood (NC.T.),Exports Quantity,48.75,1000 m3,CI
+2010,Guinea,Plywood (NC.T.),Exports Quantity,2.56,1000 m3,CBI
+2010,Guinea-Bissau,Plywood (NC.T.),Exports Quantity,0.06,1000 m3,CBR
+2010,Liberia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CB
+2010,Nigeria,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2010,Senegal,Plywood (NC.T.),Exports Quantity,0.11,1000 m3,CRI
+2010,Sierra Leone,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2010,Togo,Plywood (NC.T.),Exports Quantity,0.11,1000 m3,CBRI
+2011,Bénin,Plywood (NC.T.),Exports Quantity,0.11,1000 m3,CBRI
+2011,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CRI
+2011,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,20.05,1000 m3,CBI
+2011,Gambia,Plywood (NC.T.),Exports Quantity,0.13,1000 m3,CR
+2011,Ghana,Plywood (NC.T.),Exports Quantity,39.97,1000 m3,CI
+2011,Guinea,Plywood (NC.T.),Exports Quantity,1.05,1000 m3,CBI
+2011,Guinea-Bissau,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2011,Liberia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2011,Nigeria,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CRI
+2011,Senegal,Plywood (NC.T.),Exports Quantity,0.16,1000 m3,CRI
+2011,Sierra Leone,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2011,Togo,Plywood (NC.T.),Exports Quantity,0.46,1000 m3,CBRI
+2012,Bénin,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2012,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CRI
+2012,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,33.95,1000 m3,CBI
+2012,Gambia,Plywood (NC.T.),Exports Quantity,0.02,1000 m3,CR
+2012,Ghana,Plywood (NC.T.),Exports Quantity,44.07,1000 m3,CI
+2012,Guinea,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2012,Guinea-Bissau,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2012,Liberia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2012,Nigeria,Plywood (NC.T.),Exports Quantity,0.07,1000 m3,CBRI
+2012,Senegal,Plywood (NC.T.),Exports Quantity,1.25,1000 m3,CI
+2012,Sierra Leone,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2012,Togo,Plywood (NC.T.),Exports Quantity,0.67,1000 m3,CBI
+2013,Bénin,Plywood (NC.T.),Exports Quantity,0.04,1000 m3,CBRI
+2013,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.24,1000 m3,CBRI
+2013,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,21.71,1000 m3,CI
+2013,Gambia,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CR
+2013,Ghana,Plywood (NC.T.),Exports Quantity,27.01,1000 m3,CI
+2013,Guinea,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CRI
+2013,Guinea-Bissau,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2013,Liberia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2013,Nigeria,Plywood (NC.T.),Exports Quantity,0.03,1000 m3,CBRI
+2013,Senegal,Plywood (NC.T.),Exports Quantity,1.48,1000 m3,CI
+2013,Sierra Leone,Plywood (NC.T.),Exports Quantity,0.04,1000 m3,CBRI
+2013,Togo,Plywood (NC.T.),Exports Quantity,0.11,1000 m3,CBRI
+2014,Bénin,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CBRI
+2014,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.08,1000 m3,CBRI
+2014,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,22.48,1000 m3,CI
+2014,Gambia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CR
+2014,Ghana,Plywood (NC.T.),Exports Quantity,55.55,1000 m3,
+2014,Guinea,Plywood (NC.T.),Exports Quantity,0.37,1000 m3,CBRI
+2014,Guinea-Bissau,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2014,Liberia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2014,Nigeria,Plywood (NC.T.),Exports Quantity,0.07,1000 m3,CBRI
+2014,Senegal,Plywood (NC.T.),Exports Quantity,1.81,1000 m3,CI
+2014,Sierra Leone,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CRI
+2014,Togo,Plywood (NC.T.),Exports Quantity,0.32,1000 m3,CBRI
+2015,Bénin,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2015,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CB
+2015,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,26.81,1000 m3,CI
+2015,Gambia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CR
+2015,Ghana,Plywood (NC.T.),Exports Quantity,49.35,1000 m3,
+2015,Guinea,Plywood (NC.T.),Exports Quantity,2.25,1000 m3,CBI
+2015,Guinea-Bissau,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,C
+2015,Liberia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,X
+2015,Nigeria,Plywood (NC.T.),Exports Quantity,0.02,1000 m3,CBRI
+2015,Senegal,Plywood (NC.T.),Exports Quantity,0.67,1000 m3,CI
+2015,Sierra Leone,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CBRI
+2015,Togo,Plywood (NC.T.),Exports Quantity,0.66,1000 m3,CBI
+2016,Bénin,Plywood (NC.T.),Exports Quantity,0.05,1000 m3,CBRI
+2016,Burkina Faso,Plywood (NC.T.),Exports Quantity,0.01,1000 m3,CBR
+2016,Côte d&#039;Ivoire,Plywood (NC.T.),Exports Quantity,31.98,1000 m3,CI
+2016,Gambia,Plywood (NC.T.),Exports Quantity,0.0,1000 m3,CR

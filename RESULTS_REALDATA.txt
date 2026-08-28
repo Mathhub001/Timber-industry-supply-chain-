@@ -1,0 +1,76 @@
+West African timber supply-chain resilience — Real-data analysis
+======================================================================
+Panel: 204 rows across 12 countries × 2008-2024
+ITTO NC.T. timber export volume captured: 2008-2016 (8-9 years per country)
+
+[1] Structural-break detection (Pelt/Dynp ensemble, cost = l2/l1/rbf):
+   GHA: break at 2013 (closest disruption: ghana_log_export_ban)
+   CIV: break at 2013 (closest disruption: ghana_log_export_ban)
+   NGA: break at 2013 (closest disruption: ghana_log_export_ban)
+   LBR: break at 2013 (closest disruption: ghana_log_export_ban)
+   GIN: break at 2013 (closest disruption: ghana_log_export_ban)
+   SLE: break at 2013 (closest disruption: ghana_log_export_ban)
+
+[2] Year-over-year shocks (|YoY| >= 40%):
+   GHA 2014: +57%
+   NGA 2014: +522%
+   NGA 2015: +58%
+   LBR 2009: +144%
+   LBR 2010: +65%
+   LBR 2011: +599%
+   LBR 2012: +189%
+   GIN 2009: -75%
+   GIN 2010: +555%
+   GIN 2011: -65%
+   GIN 2012: -76%
+   GIN 2013: -71%
+   GIN 2014: +635%
+   GIN 2015: -51%
+   SLE 2009: +97%
+   SLE 2010: -44%
+   SLE 2012: -58%
+   SLE 2013: +666%
+   SLE 2015: -98%
+
+[3] Per-disruption impact (% deviation from baseline) and recovery years:
+   GHA  gfc_late_phase             baseline=nan (n=0), impact=nan, recovery=nan yrs, status=not_measurable
+   GHA  ghana_log_export_ban       baseline=386.0 (n=4), impact=3.760596307401383, recovery=1.0 yrs, status=recovered
+   GHA  ebola_and_price_crash      baseline=397.2 (n=6), impact=37.039772393477286, recovery=nan yrs, status=not_recovered_in_panel
+   GHA  covid_19                   baseline=444.5 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   GHA  ukraine_war_shipping       baseline=444.5 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   CIV  gfc_late_phase             baseline=nan (n=0), impact=nan, recovery=nan yrs, status=not_measurable
+   CIV  ghana_log_export_ban       baseline=568.1 (n=4), impact=-7.167091314736824, recovery=2.0 yrs, status=recovered
+   CIV  ebola_and_price_crash      baseline=558.5 (n=6), impact=-26.54241587704245, recovery=nan yrs, status=not_recovered_in_panel
+   CIV  covid_19                   baseline=527.0 (n=9), impact=nan, recovery=nan yrs, status=not_measurable
+   CIV  ukraine_war_shipping       baseline=527.0 (n=9), impact=nan, recovery=nan yrs, status=not_measurable
+   NGA  gfc_late_phase             baseline=nan (n=0), impact=nan, recovery=nan yrs, status=not_measurable
+   NGA  ghana_log_export_ban       baseline=112.4 (n=4), impact=-6.199532866199534, recovery=1.0 yrs, status=recovered
+   NGA  ebola_and_price_crash      baseline=115.5 (n=6), impact=643.2908177988112, recovery=1.0 yrs, status=recovered
+   NGA  covid_19                   baseline=363.8 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   NGA  ukraine_war_shipping       baseline=363.8 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   LBR  gfc_late_phase             baseline=nan (n=0), impact=nan, recovery=nan yrs, status=not_measurable
+   LBR  ghana_log_export_ban       baseline=20.9 (n=4), impact=543.9094502335608, recovery=1.0 yrs, status=recovered
+   LBR  ebola_and_price_crash      baseline=68.7 (n=6), impact=95.5383123181377, recovery=1.0 yrs, status=recovered
+   LBR  covid_19                   baseline=86.2 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   LBR  ukraine_war_shipping       baseline=86.2 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   GIN  gfc_late_phase             baseline=nan (n=0), impact=nan, recovery=nan yrs, status=not_measurable
+   GIN  ghana_log_export_ban       baseline=84.5 (n=4), impact=-95.16973984076716, recovery=nan yrs, status=not_recovered_in_panel
+   GIN  ebola_and_price_crash      baseline=59.3 (n=6), impact=-75.41453543926706, recovery=nan yrs, status=not_recovered_in_panel
+   GIN  covid_19                   baseline=50.0 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   GIN  ukraine_war_shipping       baseline=50.0 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   SLE  gfc_late_phase             baseline=nan (n=0), impact=nan, recovery=nan yrs, status=not_measurable
+   SLE  ghana_log_export_ban       baseline=18.4 (n=4), impact=-60.493827160493815, recovery=1.0 yrs, status=recovered
+   SLE  ebola_and_price_crash      baseline=22.8 (n=6), impact=-94.5147370730637, recovery=nan yrs, status=not_recovered_in_panel
+   SLE  covid_19                   baseline=24.8 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+   SLE  ukraine_war_shipping       baseline=24.8 (n=8), impact=nan, recovery=nan yrs, status=not_measurable
+
+[4] Final regression models saved to regression_results_realdata.txt
+
+[5] Caveats:
+   - ITTO biennial CSV only returned exports through 2016; post-2016 (COVID, Ukraine)
+     windows cannot be evaluated from this dataset alone.
+   - The GFC window (2008-2009) overlaps the start of our ITTO data, so there is
+     no pre-baseline; flag as 'not_measurable'.
+   - The regression model spec from the dissertation fits but is heavily
+     under-powered (6 country-disruption rows); report parsimonious 1- and
+     2-feature variants in the chapter.

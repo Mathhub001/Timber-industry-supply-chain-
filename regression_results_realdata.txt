@@ -1,0 +1,125 @@
+OLS regression: recovery_years ~ LPI + GDP growth + inflation + trade openness + country FE
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         recovery_years   R-squared:                        -inf
+Model:                            OLS   Adj. R-squared:                   -inf
+Method:                 Least Squares   F-statistic:                       nan
+Date:                Wed, 05 Aug 2026   Prob (F-statistic):                nan
+Time:                        18:17:31   Log-Likelihood:                 190.07
+No. Observations:                   6   AIC:                            -368.1
+Df Residuals:                       0   BIC:                            -369.4
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+==========================================================================================
+                             coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+Intercept                  0.1227        inf          0        nan         nan         nan
+C(country_code)[T.GHA]    -0.0902        inf         -0        nan         nan         nan
+C(country_code)[T.LBR]     0.0153        inf          0        nan         nan         nan
+C(country_code)[T.NGA]     0.0001        inf          0        nan         nan         nan
+C(country_code)[T.SLE]     0.1975        inf          0        nan         nan         nan
+lpi_overall_legacy         0.2450        inf          0        nan         nan         nan
+gdp_growth_pct            -0.0020        inf         -0        nan         nan         nan
+inflation_pct              0.0159        inf          0        nan         nan         nan
+trade_openness_pct_gdp     0.0025        inf          0        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   0.625
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.809
+Skew:                          -0.359   Prob(JB):                        0.667
+Kurtosis:                       1.350   Cond. No.                     1.05e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The input rank is higher than the number of observations.
+[3] The condition number is large, 1.05e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+--- Parsimonious model 1: recovery_years ~ LPI only (no FE) ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         recovery_years   R-squared:                       0.145
+Model:                            OLS   Adj. R-squared:                 -0.027
+Method:                 Least Squares   F-statistic:                    0.8447
+Date:                Wed, 05 Aug 2026   Prob (F-statistic):              0.400
+Time:                        18:17:31   Log-Likelihood:                -2.0360
+No. Observations:                   7   AIC:                             8.072
+Df Residuals:                       5   BIC:                             7.964
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                 -0.4765      1.768     -0.270      0.798      -5.021       4.068
+lpi_overall_legacy     0.6519      0.709      0.919      0.400      -1.171       2.475
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   2.499
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                2.952
+Skew:                           1.530   Prob(JB):                        0.229
+Kurtosis:                       3.868   Cond. No.                         35.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+--- Parsimonious model 2: impact_pct ~ LPI + trade_openness (no FE) ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             impact_pct   R-squared:                       0.210
+Model:                            OLS   Adj. R-squared:                 -0.316
+Method:                 Least Squares   F-statistic:                    0.3999
+Date:                Wed, 05 Aug 2026   Prob (F-statistic):              0.702
+Time:                        18:17:31   Log-Likelihood:                -41.639
+No. Observations:                   6   AIC:                             89.28
+Df Residuals:                       3   BIC:                             88.65
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+==========================================================================================
+                             coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+const                  -1186.6038   1818.994     -0.652      0.561   -6975.454    4602.246
+lpi_overall_legacy       610.9855    707.786      0.863      0.451   -1641.506    2863.477
+trade_openness_pct_gdp    -2.4320     11.114     -0.219      0.841     -37.803      32.938
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   1.569
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.507
+Skew:                           0.179   Prob(JB):                        0.776
+Kurtosis:                       1.621   Cond. No.                         626.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+--- Parsimonious model 3: impact_pct ~ C(country) + trade_openness ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             impact_pct   R-squared:                       0.989
+Model:                            OLS   Adj. R-squared:                  0.946
+Method:                 Least Squares   F-statistic:                     22.79
+Date:                Wed, 05 Aug 2026   Prob (F-statistic):              0.156
+Time:                        18:17:31   Log-Likelihood:                -28.778
+No. Observations:                   6   AIC:                             67.56
+Df Residuals:                       1   BIC:                             66.51
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+==========================================================================================
+                             coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+Intercept                1.17e+04   1517.728      7.707      0.082   -7587.323     3.1e+04
+C(country_code)[T.LBR]   -33.2117     98.852     -0.336      0.794   -1289.246    1222.823
+C(country_code)[T.NGA] -5431.8621    750.203     -7.241      0.087    -1.5e+04    4100.375
+C(country_code)[T.SLE] -4563.7356    592.106     -7.708      0.082   -1.21e+04    2959.689
+trade_openness_pct_gdp  -199.9051     25.917     -7.713      0.082    -529.214     129.404
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   3.497
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.550
+Skew:                           0.000   Prob(JB):                        0.759
+Kurtosis:                       1.516   Cond. No.                     2.84e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.84e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
